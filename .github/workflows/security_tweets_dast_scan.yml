@@ -49,9 +49,3 @@ jobs:
       with:
         name: report
         path: ./output
-
-Pricing
-API
-Training
-Blog
-About
